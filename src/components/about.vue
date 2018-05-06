@@ -8,6 +8,7 @@
 	          <span>{{item.text}}</span>
 	        </router-link>
 	      </div>
+      </div>
 
       <h1> About Me </h1>
        <div class="paragraph">
@@ -37,9 +38,6 @@
 
         </ul>
       </div> 
-
-	    </div>
-
 
 	</div>
 

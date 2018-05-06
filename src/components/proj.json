@@ -1,0 +1,25 @@
+[
+	{
+          "name": "Digit Classification",
+          "desc": "Utilized a Convolutional Neural Network for classify digits by largest area. With hyper-parameter tuning, checkpoint ensemble, and Majority Voting ensemble we were able to achieve a 96.3% accuracy",
+          "languages": "Python",
+          "libraries": "Sklearn, Tensorflow, Numpy, Pandas, Matplotlib",
+          "github": "https://github.com/sheldon-benard/DigitClassification"
+	},
+	{
+          "name": "Power of Linear Classifiers",
+          "desc": "Utilized Linear Baseline Models to outperform more complex CNNs on text understanding tasks. We beat the temporal CNN proposed by New York University's Zhang and LeCun on 4 of the 6 datasets.",
+          "languages": "Python",
+          "libraries": "Vowpal Wabbit, Sklearn, NLTK, Numpy, Pandas",
+          "github": "https://github.com/sheldon-benard/ImproveBaselines"
+	},
+	{
+          "name": "CA Automation",
+          "desc": "Automate the country assignment process for Model United Nations. This will be embedded in the SSUNS.org website, so the conference can automate this process every year and will have a web interface to do so",
+          "languages": "Javascript",
+          "libraries": "Grunt, csv-parse, fs-extra",
+          "github": "https://github.com/sheldon-benard/CA_Automation"
+	}
+
+
+]
