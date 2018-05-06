@@ -17,7 +17,7 @@
     <ul>
       <li>
         <a
-          href="../assets/pdf/Benard_Sheldon_Resume.pdf"
+          href="/static/pdf/Benard_Sheldon_Resume.pdf"
           target="_blank"
         >
           CV/Resume
@@ -25,7 +25,7 @@
       </li>
       <li>
         <a
-          href="../assets/pdf/Benard_Sheldon_General_Cover_Letter.pdf"
+          href="/static/pdf/Benard_Sheldon_General_Cover_Letter.pdf"
           target="_blank"
         >
           Cover Letter
