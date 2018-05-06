@@ -16,7 +16,7 @@
      <p><b>Languages</b><br>{{project.languages}}</p>
      <p><b>Libraries</b><br>{{project.libraries}}</p>
      <br>
-     <a :href="project.github" target="_blank"><img src="../assets/GitHub_Logo_White.png"></a>
+     <a :href="project.github" target="_blank"><img src="../assets/img/GitHub_Logo_White.png"></a>
 
   </div>
 

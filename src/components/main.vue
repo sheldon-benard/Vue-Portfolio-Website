@@ -11,13 +11,13 @@
       </div>
     </div>
 
-    <img src="../assets/prof.png">
+    <img src="../assets/img/prof.png">
 
     <h1>{{ msg }}</h1>
     <ul>
       <li>
         <a
-          href="/static/Benard_Sheldon_Resume.pdf"
+          href="../assets/pdf/Benard_Sheldon_Resume.pdf"
           target="_blank"
         >
           CV/Resume
@@ -25,7 +25,7 @@
       </li>
       <li>
         <a
-          href="/static/Benard_Sheldon_General_Cover_Letter.pdf"
+          href="../assets/pdf/Benard_Sheldon_General_Cover_Letter.pdf"
           target="_blank"
         >
           Cover Letter
