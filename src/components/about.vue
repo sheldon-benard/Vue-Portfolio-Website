@@ -14,13 +14,22 @@
        <div class="paragraph">
         <p>
             Hi! I'm Sheldon Benard, and I'm a 4th year Computer Science and Mathmatics student at McGill University. I am also doing a Minor in Statistics. 
-            </p>
-            <p>I'm very interested in Machine Learning, Data Science, and utilizing data to make informed decisions.</p>
+            I'm very interested in Machine Learning, Data Science, and utilizing data to make informed decisions.</p>
         <p>
-            Currently, I'm working at BMO Capital Markets as a Quantitative Analyst. Moreover, I'm looking to do some cool new projects this summer:
+            Currently, I'm working at BMO Capital Markets as a Quantitative Analyst. There, I've mainly been doing full-stack development in both C# and Javascript (Vue.js). For some side projects, we've also worked on some Blockchain technologies and we are starting a machine learning project shortly.
         </p>
 
+        <p> 
+          I am returning to school in the fall, for my final semester. I am going to be taking:
+        </p>
         <ul>
+          <li> Machine Learning (Comp 652 - Graduate Level)</li>
+          <li> Introduction to Time Series Analysis (Math 545)</li>
+          <li> Distributed Systems (Comp 512)</li>
+          <li> Regression and Analysis of Variance (Math 423)</li>
+          <li> Numerical Analysis(Math 317)</li>
+        </ul>
+        <!-- <ul>
           <li> <b>Country Assignment Automation:</b> Redo my <a href="https://github.com/sheldon-benard/CA_Automation" target="_blank">CA project</a>. This will automate the assignment of countries to delegates for Model United Nations conferences
           </li>
           <li>
@@ -36,7 +45,7 @@
             <b> Blockchain Development:</b> Learn and develop first blockchain project
           </li> 
 
-        </ul>
+        </ul> -->
       </div> 
 
 	</div>
@@ -101,9 +110,10 @@ p {
 .paragraph {
 /*    padding-left: 150px;
     padding-right: 150px;*/
-    width: 85%;
+    width: 65%;
     margin-left: auto;
     margin-right: auto;
+    background-color: #14151a;
 }
 .nav-link:hover {
     color: #eee;

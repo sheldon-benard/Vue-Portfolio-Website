@@ -1,13 +1,19 @@
 <template>
   <div id="app">
       <router-view/>
+      <particles/>
   </div>
 </template>
 
 <script>
+import particles from "./components/particles";
+
 export default {
-  name: 'App'
-}
+  name: "App",
+  components: {
+    particles
+  }
+};
 </script>
 
 <style>
@@ -28,12 +34,12 @@ html, body {
   text-align: center;
   color: #2c3e50;
 
-  display: flex;
-  height: 100%;
+  /* display: flex; */
+  /* height: 100%; */
   /*justify-content: center;*/
   align-items: center;
   flex-direction: column;
 
-  background-color: #14151a;
+  /* background-color: #14151a; */
 }
 </style>

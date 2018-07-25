@@ -98,7 +98,7 @@ p {
   border: 1px solid #bbb;
   margin-top: 50px;
   margin-left: 30px;
-
+  background-color: #14151a;
 }
 .nav-link:hover {
     color: #eee;
