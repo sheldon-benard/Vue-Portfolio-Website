@@ -23,14 +23,14 @@
           CV/Resume
         </a>
       </li>
-      <li>
+      <!-- <li>
         <a
           href="/static/pdf/Benard_Sheldon_General_Cover_Letter.pdf"
           target="_blank"
         >
           Cover Letter
         </a>
-      </li>
+      </li> -->
     </ul>
   </div>
 </template>
