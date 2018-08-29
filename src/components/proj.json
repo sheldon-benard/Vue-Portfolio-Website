@@ -14,8 +14,8 @@
           "github": "https://github.com/sheldon-benard/ImproveBaselines"
     },
     {
-        "name": "BlockChainges",
-        "desc": "Utilized the ethereum blockchain to decentralize peer-to-peer donations; campaigns are broken down into checkpoints, to increase tranparency and ensure donors continue to donate to the campaign",
+        "name": "BlockChainge",
+        "desc": "Utilized the ethereum blockchain to decentralize peer-to-peer donations; campaigns are broken down into checkpoints; this increases tranparency and increases the likelihood donors continue to donate to the campaign",
         "languages": "Javascript, Solidity, HTML, CSS",
         "libraries": "Truffle-Ganache, IPFS, MetaMask, jQuery",
         "github": "https://github.com/sheldon-benard/BlockChainge"
@@ -36,7 +36,7 @@
     },
     {
         "name": "Setup Quorum nodes",
-        "desc": "Click below for quorum bootnode setup and visit my github for quorum peer node setup. Quorum, developed by JP Morgan, is an enterprise-ready distributed ledger and smart contract platform.",
+        "desc": "Click below for quorum bootnode setup and visit github for quorum peer node setup. Quorum, developed by JP Morgan, is an enterprise-ready distributed ledger and smart contract platform for private transactions with high throughput.",
         "languages": "Shell Script",
         "libraries": "Quorum",
         "github": "https://github.com/sheldon-benard/quorumBootnode"
