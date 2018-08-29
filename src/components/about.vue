@@ -27,7 +27,7 @@
           <li> Introduction to Time Series Analysis (Math 545)</li>
           <li> Distributed Systems (Comp 512)</li>
           <li> Regression and Analysis of Variance (Math 423)</li>
-          <li> Numerical Analysis(Math 317)</li>
+          <li> Numerical Analysis (Math 317)</li>
         </ul>
         <!-- <ul>
           <li> <b>Country Assignment Automation:</b> Redo my <a href="https://github.com/sheldon-benard/CA_Automation" target="_blank">CA project</a>. This will automate the assignment of countries to delegates for Model United Nations conferences
